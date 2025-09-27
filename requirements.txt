@@ -1,0 +1,2 @@
+pip freeze > requirements.txt
+# This file lists all the dependencies for the Flask application.
